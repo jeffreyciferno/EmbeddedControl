@@ -4,7 +4,7 @@
 //-----------
 // REVD Note:
 // ----------
-// Fall 2015 / Beer Control State Machine
+// Fall 2018 / Beer Control State Machine
 // Objectives:
 //------------
 // 1. Design a State Machine using Max32 Microcontroller
